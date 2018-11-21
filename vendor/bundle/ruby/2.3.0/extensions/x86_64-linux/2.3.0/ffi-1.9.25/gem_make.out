@@ -1,0 +1,5 @@
+current directory: /home/joselinefron/Documentos/LPP/p8/herencia/vendor/bundle/ruby/2.3.0/gems/ffi-1.9.25/ext/ffi_c
+/usr/bin/ruby2.3 -r ./siteconf20181121-30929-1nl16p8.rb extconf.rb
+mkmf.rb can't find header files for ruby at /usr/lib/ruby/include/ruby.h
+
+extconf failed, exit code 1
